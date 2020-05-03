@@ -11,7 +11,7 @@ categories:
   - cert-manager
   - kubernetes
 redirect_from:
-  - 2019/02/17/cert-manager-kubernetes-cloudflare-dns/
+  - "/2019/02/17/cert-manager-kubernetes-cloudflare-dns/"
   
 ---
 The following is a quick start quide to deploying [cert-manager](https://docs.cert-manager.io/en/latest/getting-started/install.html#verifying-the-installation) on a single node CoreOS Kubernetes instance.
