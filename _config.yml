@@ -24,4 +24,5 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-redirect-from
 
