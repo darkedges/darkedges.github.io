@@ -5,7 +5,7 @@ date: 2020-05-04T16:00:00+00:00
 author: admin
 layout: post
 guid: http://www.darkedges.com/blog/?p=39
-permalink: /2019/05/04/cert-manager-kubernetes-cloudflare-dns-update/
+permalink: /2020/05/04/cert-manager-kubernetes-cloudflare-dns-update/
 categories:
   - coreos
   - cert-manager
