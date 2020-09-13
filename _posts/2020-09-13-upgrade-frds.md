@@ -12,6 +12,11 @@ categories:
   
 ---
 
+
+The following is a quick guide to upgrading ForgeRock Directory Services 6.5.x to 7.0.0. It is by no means a definitive guide and only covers `directory-server`. `replication-server` and `proxy-server` will follow shortly.
+
+<!-- more -->
+
 ## Pre-Requisites
 
 The following files are required to be downloaded to `/tmp` of your Linux server.
